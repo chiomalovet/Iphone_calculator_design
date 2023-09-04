@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+input {
+    border: none;
+    color: #ffff;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    width: 25px;
+    border-radius: 100%;
+}
+
+#are {
+    height: 100px;
+    width: 279px;
+    background-color: black;
+}
+
+#cd {
+    background-color: grey;
+}
+
+#be {
+    background-color: orange;
+}
+
+#is {
+    background-color: black;
+}
+
+#doe {
+    background-color: black;
+    width: 40px;
+}
